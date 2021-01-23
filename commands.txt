@@ -1,0 +1,29 @@
+---------------------------------------------------------------------------
+Stage 0:
+---------------------------------------------------------------------------
+1.Logged in to my account.
+2.Click the new repository button in the top-right. I have an option there to initialize the repository with a README file,
+ “Create repository name with with case-study-Business-challeng” button. 
+3. cloned the project to my local using below command git clone https://github.com/rajurj92/case-study-Business-challeng.git
+---------------------------------------------------------------------------
+Stage 1:
+---------------------------------------------------------------------------
+1.git pull origin main
+2.created a jsonfile name with swagger.json
+git add .
+git commit -m "json-file added"
+git push origin 
+3.created new branch with command git checkout -b feature
+git push origin feature
+---------------------------------------------------------------------------
+Stage 2:
+---------------------------------------------------------------------------
+1.created new branch with name feature2
+2.git checkout feature2
+3.git pull origin main
+---------------------------------------------------------------------------
+Stage 3:
+---------------------------------------------------------------------------
+1.created new branch with name feature2
+2.git checkout feature2
+3.git pull origin main
